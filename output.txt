@@ -1,0 +1,4 @@
+Name: Hat, Price: 500, Quantity: 52
+Name: pants, Price: 2500, Quantity: 78
+Name: TV, Price: 30000, Quantity: 7
+Name: PC, Price: 120000, Quantity: 36
